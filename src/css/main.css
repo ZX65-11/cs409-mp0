@@ -7,17 +7,18 @@
   border-radius: 10px;
   display: flex;  
 }
+
 .text {
     color:rgb(17, 16, 16);
     max-width: 600px; 
 }
+
 .imgs {
   width: 150px;
   height: 150px;
   display: block; 
   margin: 0 auto;  
 }
-
 
 .profile{
    margin: 0 auto;   
