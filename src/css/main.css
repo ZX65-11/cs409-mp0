@@ -23,3 +23,9 @@
 .profile{
    margin: 0 auto;   
 }
+
+.information{
+  display: flex;
+  flex-direction: column; 
+  align-items: center;   
+}
